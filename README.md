@@ -50,7 +50,7 @@
   <a href="mailto:chamodijayasingha@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/ChamodiJayasingha" target="https://github.com/ChamodiJ">
+  <a href="https://github.com/ChamodiJ" target="https://github.com/ChamodiJ">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
